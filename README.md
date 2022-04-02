@@ -40,6 +40,6 @@ and percentage of non-Vine reviews that were 5 stars is:
 
 ### Summary: 
 
-From the above analised data we concluded that there is no positivity bias for reviews in the Vine program. 
+From the above analyzed data we concluded that there is no positivity bias for reviews in the Vine program. 
 We could perform statistical analysis with this dataset to prove that music reviews are independent of paid vine reviewers.
 Also. we could analyse other datasets like books, software, etc to confirm our findings.
